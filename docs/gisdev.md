@@ -1,4 +1,0 @@
- 
-# gisdev module
-
-::: gisdev.gisdev
