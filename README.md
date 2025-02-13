@@ -10,8 +10,15 @@
 
 -   Free software: MIT License
 -   Documentation: https://nana-ofosu.github.io/gisdev
-    
+
 
 ## Features
+1. Create interactive maps for GIS
+
 
 -   TODO
+
+### How install our package from github
+```sh
+pip install git+https://github.com/bernardofosu/gisdev.git
+```
