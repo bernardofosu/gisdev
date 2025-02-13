@@ -10,12 +10,12 @@
 
 -   Free software: MIT License
 -   Documentation: https://nana-ofosu.github.io/gisdev
-    
+
 
 ## Features
 
 -   TODO
-  
+
 ### How install our package from github
 ```sh
 pip install git+https://github.com/bernardofosu/gisdev.git
