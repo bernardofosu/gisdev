@@ -9,7 +9,7 @@
 
 -   Free software: MIT License
 -   Documentation: <https://bernardofosu.github.io/gisdev>
-    
+
 
 ## Features
 - Interactive Maps
@@ -31,7 +31,7 @@ mkdocs serve
 You will see a new directory called site
 Whenever we make changes we have to rebuild using `mkdocs build`
 
-We can also use `mkdocs serve` to automatically update the website when we make changes but it will shutdown when we close or exit the terminal. 
+We can also use `mkdocs serve` to automatically update the website when we make changes but it will shutdown when we close or exit the terminal.
 
 The `mkdocs build` build the website and put in the site directory but `mkdocs serve` just build the website in temporal session on port 8000
 
