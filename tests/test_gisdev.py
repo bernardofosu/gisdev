@@ -2,7 +2,6 @@
 
 """Tests for `gisdev` package."""
 
-
 import unittest
 
 from gisdev import gisdev
